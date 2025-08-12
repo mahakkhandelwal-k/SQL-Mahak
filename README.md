@@ -1,3 +1,4 @@
+[SQL Assignment Final.docx](https://github.com/user-attachments/files/21741887/SQL.Assignment.Final.docx)
 # Project Documentation:SQL
 ### Introduction:
 This project focuses on grasping the fundamentals and practical applications of SQL in real-world business scenarios. It covers key concepts such as DDL, DML, and DQL.
